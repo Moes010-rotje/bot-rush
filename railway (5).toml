@@ -1,0 +1,4 @@
+[deploy]
+startCommand = "python xauusd_gold_rush.py"
+restartPolicyType = "always"
+restartPolicyMaxRetries = 10

@@ -1,0 +1,2 @@
+metaapi-cloud-sdk>=28.0.0
+aiohttp>=3.9.0
